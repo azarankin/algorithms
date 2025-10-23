@@ -1,0 +1,5 @@
+Merge Sort          stable-sort
+Quick Sort          not stable-sort
+Selection Sort      not stable-sort
+Insertion Sort      stable-sort
+Shellsort           not stable-sort
